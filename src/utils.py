@@ -155,8 +155,8 @@ def post_process_output(text: str)-> str:
     #Remove the trailing spaces.
     text = text.lstrip()
     
-    #Remove the 'Diya:' token from the beginning of the response if it exists. 
-    if 'Diya:' == text[:5]:
+    #Remove the 'Ricky:' token from the beginning of the response if it exists. 
+    if 'Ricky:' == text[:5]:
         return text[5:]
     
     return text
