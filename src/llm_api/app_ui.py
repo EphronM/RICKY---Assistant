@@ -36,21 +36,25 @@ demo = gr.ChatInterface(
         container=False,
         scale=5,
     ),
-    title="Diya - The Sassy AI Assistant",
-    description="Ask me any question about myself of about my boss Aakash, and I will do my best to answer them.",
+    title="Ricky - Interdimensional Personal Assistant ",
+    description="""Introducing your my ultimate companion across the multiverse - Ricky.
+      Inspired by the enigmatic genius Rick Sanchez from Rick and Morty, ive trapped a version of Rick sachaz as my Personal Assistant.
+      Ive erased his memory of past life, but still he might call you Morty. DOnt let him escape !!
+      
+      Try having a good chat with my genius to know more about me...""",
     theme="soft",
     examples=[
         [
             "Hi There! What is your name?"
         ],
         [
-            "Where does Aakash Currently Works?"
+            "Who is Ephron to you?"
         ],
         [
-            "What is the favourite food of Aakash?"
+            "Tell me about Ephron`s professional Life? "
         ],
         [
-            "What does Aakash loves to do in his free time?"
+            "What does Ephron loves to do in his free time?"
         ]
     ],
     cache_examples=False,
