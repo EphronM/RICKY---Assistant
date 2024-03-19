@@ -1,0 +1,96 @@
+2024-03-19 07:44:33,880 - src.utils - INFO - Instantiating a open-mistral-7b API client.
+2024-03-19 09:37:16,943 - src.utils - INFO - Instantiating a open-mistral-7b API client.
+2024-03-19 09:38:37,632 - src.utils - INFO - Instantiating a open-mistral-7b API client.
+2024-03-19 09:38:38,381 - src.utils - INFO - Successfully Initiated the LLM API Client
+2024-03-19 09:39:13,040 - src.utils - INFO - Preparing prompt for response generation
+2024-03-19 09:39:13,041 - src.utils - INFO - Calling the API Client for response generation
+2024-03-19 09:39:15,705 - src.utils - INFO - Response generation Completed..
+2024-03-19 09:39:15,710 - src.utils - INFO - Logging the prompt data onto comet-ml
+2024-03-19 09:40:00,972 - src.utils - INFO - Preparing prompt for response generation
+2024-03-19 09:40:00,982 - src.utils - INFO - Calling the API Client for response generation
+2024-03-19 09:40:02,968 - src.utils - INFO - Response generation Completed..
+2024-03-19 09:40:02,969 - src.utils - INFO - Logging the prompt data onto comet-ml
+2024-03-19 09:40:37,785 - src.utils - INFO - Preparing prompt for response generation
+2024-03-19 09:40:37,802 - src.utils - INFO - Calling the API Client for response generation
+2024-03-19 09:40:41,053 - src.utils - INFO - Response generation Completed..
+2024-03-19 09:40:41,054 - src.utils - INFO - Logging the prompt data onto comet-ml
+2024-03-19 10:04:41,289 - src.utils - INFO - Building a huggingface inference pipeline
+2024-03-19 10:05:00,335 - src.utils - INFO - Building 1/2 - FinancialBotQAChain. Initalizaing a prompt logger and LLM agent
+2024-03-19 10:05:00,443 - src.utils - INFO - Building 2/2 - Connecting chains into SequentialChain
+2024-03-19 10:05:00,443 - src.utils - INFO - Done building SequentialChain.
+
+
+[1m> Entering new StatelessMemorySequentialChain chain...[0m
+2024-03-19 10:05:12,541 - src.utils - INFO - Preparing prompt for response generation
+2024-03-19 10:05:12,589 - src.utils - INFO - Preparing response for the prompt
+2024-03-19 10:05:24,350 - src.utils - INFO - Logging the prompt data onto comet-ml
+
+[1m> Finished chain.[0m
+
+
+[1m> Entering new StatelessMemorySequentialChain chain...[0m
+2024-03-19 10:05:55,386 - src.utils - INFO - Preparing prompt for response generation
+2024-03-19 10:05:55,400 - src.utils - INFO - Preparing response for the prompt
+2024-03-19 10:06:04,214 - src.utils - INFO - Logging the prompt data onto comet-ml
+
+[1m> Finished chain.[0m
+
+
+[1m> Entering new StatelessMemorySequentialChain chain...[0m
+2024-03-19 10:06:31,566 - src.utils - INFO - Preparing prompt for response generation
+2024-03-19 10:06:31,582 - src.utils - INFO - Preparing response for the prompt
+2024-03-19 10:06:41,211 - src.utils - INFO - Logging the prompt data onto comet-ml
+
+[1m> Finished chain.[0m
+
+
+[1m> Entering new StatelessMemorySequentialChain chain...[0m
+2024-03-19 10:07:00,090 - src.utils - INFO - Preparing prompt for response generation
+2024-03-19 10:07:00,108 - src.utils - INFO - Preparing response for the prompt
+2024-03-19 10:07:11,166 - src.utils - INFO - Logging the prompt data onto comet-ml
+
+[1m> Finished chain.[0m
+
+
+[1m> Entering new StatelessMemorySequentialChain chain...[0m
+2024-03-19 10:07:36,586 - src.utils - INFO - Preparing prompt for response generation
+2024-03-19 10:07:36,608 - src.utils - INFO - Preparing response for the prompt
+2024-03-19 10:07:46,374 - src.utils - INFO - Logging the prompt data onto comet-ml
+
+[1m> Finished chain.[0m
+
+
+[1m> Entering new StatelessMemorySequentialChain chain...[0m
+2024-03-19 10:08:00,568 - src.utils - INFO - Preparing prompt for response generation
+2024-03-19 10:08:00,593 - src.utils - INFO - Preparing response for the prompt
+2024-03-19 10:08:11,359 - src.utils - INFO - Logging the prompt data onto comet-ml
+
+[1m> Finished chain.[0m
+2024-03-19 10:09:57,364 - src.utils - INFO - Building a huggingface inference pipeline
+2024-03-19 10:10:09,965 - src.utils - INFO - Building 1/2 - FinancialBotQAChain. Initalizaing a prompt logger and LLM agent
+2024-03-19 10:10:10,056 - src.utils - INFO - Building 2/2 - Connecting chains into SequentialChain
+2024-03-19 10:10:10,057 - src.utils - INFO - Done building SequentialChain.
+
+
+[1m> Entering new StatelessMemorySequentialChain chain...[0m
+2024-03-19 10:10:21,872 - src.utils - INFO - Preparing prompt for response generation
+2024-03-19 10:10:21,900 - src.utils - INFO - Preparing response for the prompt
+2024-03-19 10:10:28,025 - src.utils - INFO - Logging the prompt data onto comet-ml
+
+[1m> Finished chain.[0m
+
+
+[1m> Entering new StatelessMemorySequentialChain chain...[0m
+2024-03-19 10:10:34,545 - src.utils - INFO - Preparing prompt for response generation
+2024-03-19 10:10:34,565 - src.utils - INFO - Preparing response for the prompt
+2024-03-19 10:10:41,865 - src.utils - INFO - Logging the prompt data onto comet-ml
+
+[1m> Finished chain.[0m
+
+
+[1m> Entering new StatelessMemorySequentialChain chain...[0m
+2024-03-19 10:10:55,341 - src.utils - INFO - Preparing prompt for response generation
+2024-03-19 10:10:55,359 - src.utils - INFO - Preparing response for the prompt
+2024-03-19 10:11:03,862 - src.utils - INFO - Logging the prompt data onto comet-ml
+
+[1m> Finished chain.[0m

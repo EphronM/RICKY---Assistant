@@ -156,8 +156,8 @@ def post_process_output(text: str)-> str:
     text = text.lstrip()
     
     #Remove the 'Ricky:' token from the beginning of the response if it exists. 
-    if 'Ricky:' == text[:5]:
-        return text[5:]
+    if 'Ricky:' == text[:6]:
+        return text[6:]
     
     return text
 
