@@ -1,8 +1,9 @@
 
 # RICKY Assistant
 
+![APP Link](http://13.126.248.103/) 
 
-Introducing Ricky 🚀
+Introducing Ricky 🚀  
 
 Your personal assistant infused with the wit and wisdom of **Rick Sanchez** from the hit TV show Rick and Morty. Unlike typical AI bots, Ricky doesn't just provide answers—it embodies the unpredictable personality of Rick himself.
 
