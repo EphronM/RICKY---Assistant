@@ -94,3 +94,23 @@
 2024-03-19 10:11:03,862 - src.utils - INFO - Logging the prompt data onto comet-ml
 
 [1m> Finished chain.[0m
+2024-03-20 04:05:21,927 - src.utils - INFO - Instantiating a open-mistral-7b API client.
+2024-03-20 04:06:07,976 - src.utils - INFO - Instantiating a open-mistral-7b API client.
+2024-03-20 04:07:35,998 - src.utils - INFO - Instantiating a open-mistral-7b API client.
+2024-03-20 04:07:36,908 - src.utils - INFO - Successfully Initiated the LLM API Client
+2024-03-20 04:09:00,525 - src.utils - INFO - Preparing prompt for response generation
+2024-03-20 04:09:00,526 - src.utils - INFO - Calling the API Client for response generation
+2024-03-20 04:09:02,016 - src.utils - INFO - Response generation Completed..
+2024-03-20 04:09:02,017 - src.utils - INFO - Logging the prompt data onto comet-ml
+2024-03-20 04:09:24,276 - src.utils - INFO - Preparing prompt for response generation
+2024-03-20 04:09:24,286 - src.utils - INFO - Calling the API Client for response generation
+2024-03-20 04:09:25,562 - src.utils - INFO - Response generation Completed..
+2024-03-20 04:09:25,562 - src.utils - INFO - Logging the prompt data onto comet-ml
+2024-03-20 04:09:53,992 - src.utils - INFO - Preparing prompt for response generation
+2024-03-20 04:09:54,004 - src.utils - INFO - Calling the API Client for response generation
+2024-03-20 04:09:55,519 - src.utils - INFO - Response generation Completed..
+2024-03-20 04:09:55,519 - src.utils - INFO - Logging the prompt data onto comet-ml
+2024-03-20 04:10:10,528 - src.utils - INFO - Preparing prompt for response generation
+2024-03-20 04:10:10,540 - src.utils - INFO - Calling the API Client for response generation
+2024-03-20 04:10:12,817 - src.utils - INFO - Response generation Completed..
+2024-03-20 04:10:12,818 - src.utils - INFO - Logging the prompt data onto comet-ml

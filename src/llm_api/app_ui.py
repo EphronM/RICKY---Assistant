@@ -27,7 +27,7 @@ def predict(message: str, history: List[List[str]], about_me: str):
 
 
 ############## === Gradio chat Interface ===
-
+        
 demo = gr.ChatInterface(
     predict,
     textbox=gr.Textbox(
@@ -36,10 +36,15 @@ demo = gr.ChatInterface(
         container=False,
         scale=5,
     ),
-    title="Ricky - Interdimensional Personal Assistant ",
-    description="""Introducing your my ultimate companion across the multiverse - Ricky.
-      Inspired by the enigmatic genius Rick Sanchez from Rick and Morty, ive trapped a version of Rick sachaz as my Personal Assistant.
-      Ive erased his memory of past life, but still he might call you Morty. DOnt let him escape !!
+    title=''' 
+    Ricky 🤖 Interdimensional Personal Assistant 🚀 ''',
+    description="""Introducing you my ultimate companion across the multiverse - Ricky.
+
+      Inspired by the enigmatic genius Rick Sanchez from Rick and Morty, 
+
+      Ive trapped a version of Rick sachaz as my Personal Assistant.
+
+      Ive erased his memory of past life, but still he might call you Morty. Dont let him escape !!
       
       Try having a good chat with my genius to know more about me...""",
     theme="soft",
