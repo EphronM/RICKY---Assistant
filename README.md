@@ -1,7 +1,7 @@
 
 # RICKY Assistant
 
-![APP Link](http://13.126.248.103/) 
+[APP Link](http://13.126.248.103/) 
 
 Introducing Ricky 🚀  
 
